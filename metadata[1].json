@@ -1,0 +1,24 @@
+{
+    "student_name": "Romio Gupta",
+    "reg_number": "202400052",
+    "course": "Data Warehousing and Business Analytics (DWBA)",
+    "semester": "5th Semester",
+    "total_students_evaluated": 160,
+    "evaluated_grades": [
+        "S",
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+    ],
+    "subjects_processed": [
+        "Machine_Learning",
+        "Cloud_Computing",
+        "Data_Mining",
+        "Artificial_Intelligence",
+        "Compiler_Design",
+        "Distributed_Systems"
+    ]
+}
